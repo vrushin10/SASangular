@@ -36,7 +36,7 @@
     "@sasjs/adapter": "^3.10.14",
     "@sasjs/cli": "3.17.0",
     "@sasjs/core": "^4.34.1",
-    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "@webcomponents/webcomponentsjs": "^2.8.0",
     "moment": "^2.29.3",
     "@sasjs/ngx-sasjs": "^1.0.3",
     "rxjs": "~7.5.5",
